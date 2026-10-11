@@ -1,0 +1,22 @@
+{
+  "name": "GLOW UP OS",
+  "short_name": "GLOW UP OS",
+  "description": "Personal planner untuk kuliah, praktikum, gym, nutrisi, tidur, dan wellbeing.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101112",
+  "theme_color": "#121212",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
